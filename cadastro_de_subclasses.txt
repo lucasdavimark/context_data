@@ -1,0 +1,27 @@
+Cadastro de Subclasses:
+Esta tela será utilizada para cadastrar as subclasses dos produtos, classificando-os em grupos e facilitando sua localização através de relatórios.
+
+Abrir tela:
+Selecione o módulo ESTOQUE;
+Clique no menu Subclasse
+Na tela superior de cadastro de subclasses, além de se criar uma nova subclasse é possível editar e apagar as mesmas.
+
+Campos
+Código: Onde se define um código numérico para a subclasse a ser cadastrada. O usuário pode definir o código ou ao clicar na seta o próprio sistema gera um código sequencial.
+Nome: Onde será definido o nome para a subclasse.
+Cadastro
+Ao clicar no botão Novo será possível a inclusão de novas subclasses. É possível determinar um código sequencial e logo após determinar o nome da classe a ser utilizada.
+
+Em seguida basta clicar em Salvar (F2) caso esteja finalizado o cadastro da subclasse ou, caso queira cadastrar duas ou mais subclasses clicar em Salvar e continuar (F3).
+
+Para um novo cadastro clique em Novo (F5).
+
+Edição
+Localize a subclasse na tela de pesquisa e na parte superior ao clicar no botão Alterar é possível realizar alterações nas subclasses cadastradas anteriormente. Não é possível redefinir o código da subclasse já cadastrada, apenas o nome da mesma.
+
+Logo após efetuadas as modificações, basta clicar em Salvar (F2) caso esteja finalizado a alteração da subclasse ou, caso queira cadastrar duas ou mais subclasses clicar em Salvar e continuar (F3).
+
+Apagar
+Para apagar uma subclasse cadastrada basta encontrá-lo em buscar e clicar em apagar. Na tela de confirmação basta clicar em OK e a subclasse será apagada do banco de dados.
+
+Caso a subclasse selecionada já esteja em uso em algum produto, a mesma não poderá ser apagada.
